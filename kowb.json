@@ -1,5 +1,6 @@
-"keyword", {
-"rexynep",
-"rexyclex",
-"neptunus",
-"morveus",
+const key = [
+"addkey",
+"REXYNEP",
+"REXYCLEX",
+"NEPTUNES"
+]
